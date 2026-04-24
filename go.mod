@@ -1,6 +1,6 @@
-module ride-sharing
+module com.bleckshiba/carpool
 
-go 1.23.0
+go 1.26.0
 
 require (
 	google.golang.org/grpc v1.69.4

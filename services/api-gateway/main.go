@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"ride-sharing/shared/env"
+	"com.bleckshiba/carpool/shared/env"
 )
 
 var (
